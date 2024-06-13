@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>8315a146-4bd3-4c37-9327-1d7c20832f48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.owl-item.active > div.item > div.bnrimg > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[7]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(7) > .item > .bnrimg > img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>46ad7477-8e62-42f1-bb9e-66e307494706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/bnr/banner-1.jpg</value>
+      <webElementGuid>14dc92cf-f32d-4b90-8aea-d1582be67ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;bannerSec&quot;]/div[@class=&quot;owl-carousel owl-theme owl-loaded owl-drag&quot;]/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;bnrimg&quot;]/img[1]</value>
+      <webElementGuid>a9b29294-aa01-43b3-8fc6-eb14b9f5227e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/img</value>
+      <webElementGuid>70eccd03-d479-4cb5-90f8-22f5ba97b0e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/images/bnr/banner-1.jpg']</value>
+      <webElementGuid>b2ea9df4-449d-4dc1-8b91-57ab59012f22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

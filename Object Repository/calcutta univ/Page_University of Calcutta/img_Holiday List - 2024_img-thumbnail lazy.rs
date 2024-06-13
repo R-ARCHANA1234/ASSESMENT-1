@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Holiday List - 2024_img-thumbnail lazy</name>
+   <tag></tag>
+   <elementGuidId>ae963fe9-3fdc-4ce1-ab0e-0ac987583b2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-thumbnail.lazy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/figure/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.img-thumbnail</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2a0e5db8-a35f-402a-ab2a-728c59832b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-thumbnail lazy</value>
+      <webElementGuid>88309d76-6a5c-465d-bf38-a191b4e8561f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/map_right_pic.jpg</value>
+      <webElementGuid>1d53ba0f-bd4e-41ea-8e61-01a47708185d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;main_contain&quot;]/div[@class=&quot;map_sec&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;map_sec_prt&quot;]/div[@class=&quot;col-sm-12 col-md-8 cus_map_con text-center&quot;]/figure[1]/img[@class=&quot;img-thumbnail lazy&quot;]</value>
+      <webElementGuid>565b2436-a8ce-46d1-98d7-17fe6ff1c5c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/figure/img</value>
+      <webElementGuid>b019a910-06f3-4deb-be7e-771e694c4794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/map_right_pic.jpg']</value>
+      <webElementGuid>a8c63fa7-a835-40ab-969f-65c5cc69b335</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
